@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07f053f7cfe61dc8",
+        "id": "336ff3387027331b",
         "type": "tabs",
         "children": [
           {
-            "id": "c886238e8cccbd5a",
+            "id": "e70ea5bcf55c0b8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86a6aaa468a28b07",
+  "active": "e70ea5bcf55c0b8b",
   "lastOpenFiles": [
-    "Introduction.md",
+    "tech/README.md",
+    "rfc/README.md",
+    "plan/README.md",
+    "misc/README.md",
+    "marketing/README.md",
+    "README.md",
+    "misc",
+    "marketing",
+    "rfc",
+    "plan",
+    "architechture",
+    "tech",
     "Welcome.md"
   ]
 }
