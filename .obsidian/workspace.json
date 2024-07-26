@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "336ff3387027331b",
+        "id": "b40d419cbaa3fd9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e70ea5bcf55c0b8b",
+            "id": "0c962dbac64b2b07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "plan/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "plan/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "plan/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "plan/README.md"
+              }
             }
           }
         ]
@@ -135,17 +143,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e70ea5bcf55c0b8b",
+  "active": "0c962dbac64b2b07",
   "lastOpenFiles": [
-    "tech/README.md",
-    "rfc/README.md",
+    "tech/Landing Page.md",
+    "Untitled",
+    "Random writings - organize later.md",
+    "tech/Architechture.excalidraw.md",
     "plan/README.md",
-    "misc/README.md",
-    "marketing/README.md",
+    "plan/Untitled.md",
     "README.md",
+    "marketing/README.md",
+    "tech/Untitled.canvas",
+    "tech/README.md",
+    "Excalidraw",
+    "rfc/README.md",
+    "misc/README.md",
     "misc",
     "marketing",
     "rfc",
