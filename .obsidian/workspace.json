@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b40d419cbaa3fd9f",
+        "id": "c1060ceb3fd83a99",
         "type": "tabs",
         "children": [
           {
-            "id": "0c962dbac64b2b07",
+            "id": "3923f0d9727e7cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,21 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c962dbac64b2b07",
+  "active": "3923f0d9727e7cfb",
   "lastOpenFiles": [
-    "tech/Landing Page.md",
-    "Untitled",
-    "Random writings - organize later.md",
+    "misc/Why?.md",
+    "plan/RFC Plan & Docs.md",
+    "tech/Front-end.md",
+    "misc/README.md",
     "tech/Architechture.excalidraw.md",
+    "tech/zagql.md",
     "plan/README.md",
-    "plan/Untitled.md",
+    "rfc/README.md",
+    "tech/Landing Page.md",
+    "tech/Log.md",
+    "tech/Object storage.md",
+    "tech/Search.md",
+    "Random writings - organize later.md",
+    "tech/README.md",
+    "tech/Analytics.md",
+    "Untitled",
     "README.md",
     "marketing/README.md",
     "tech/Untitled.canvas",
-    "tech/README.md",
     "Excalidraw",
-    "rfc/README.md",
-    "misc/README.md",
     "misc",
     "marketing",
     "rfc",

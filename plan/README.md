@@ -7,7 +7,7 @@ Once the feature set and goals are complete, every feature will then make more s
 
 Use Height to plan the whole thing up from scratch.
 
-Don't start anything without planning. Don't leave anything for later. Plan and then work.
+Don't start anything without planning. Don't leave anything for later. Plan and then work. Plan and then work. This will take time. So have patience.
 
 ## Phase 1: RFC 
 
