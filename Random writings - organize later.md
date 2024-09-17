@@ -2,7 +2,7 @@ Forium should be easy to self-host. Either on a single machine or a host of othe
 
 So, for standard plan, we will provision 1 set of servers (5 locations) to 20 clients.
 
-($50 * 20 = $1000) - ($30 * 5 = $150/month) - ($50 misc) = ~$800 / 20 = $40 profit / client.
+($50/client * 20 clients = $1000) - ($30 / server * 5 servers = $150) - ($50 misc) = ~$800 / 20 clients = ~$40 profit / client
 
 This gives us a high profit margin simply based on our infra cost. Therefore success of the server is necessary for this.
 
@@ -23,4 +23,3 @@ To make the most out of Forium, you need to provide features as well:
 - Tauri App (Desktop & Mobile) for engagement (Easier to maintain too as the whole thing will run off the web anyways)
 - Translate for feature
 - Announcements
-

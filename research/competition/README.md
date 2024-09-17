@@ -1,0 +1,4 @@
+Competition List:
+[[Discourse]]
+[[Discord]]
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1060ceb3fd83a99",
+        "id": "e349ff9d4c344773",
         "type": "tabs",
         "children": [
           {
-            "id": "3923f0d9727e7cfb",
+            "id": "27a030b0a14cf210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan/README.md",
+                "file": "design/High-level wireframe plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plan/README.md",
+                "file": "design/High-level wireframe plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plan/README.md",
+                "file": "design/High-level wireframe plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plan/README.md"
+                "file": "design/High-level wireframe plan.md"
               }
             }
           }
@@ -147,34 +147,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3923f0d9727e7cfb",
+  "active": "27a030b0a14cf210",
   "lastOpenFiles": [
-    "misc/Why?.md",
-    "plan/RFC Plan & Docs.md",
-    "tech/Front-end.md",
-    "misc/README.md",
-    "tech/Architechture.excalidraw.md",
-    "tech/zagql.md",
-    "plan/README.md",
-    "rfc/README.md",
-    "tech/Landing Page.md",
-    "tech/Log.md",
-    "tech/Object storage.md",
-    "tech/Search.md",
-    "Random writings - organize later.md",
+    "design/Philosophy.md",
+    "design/wireframe.excalidraw.md",
+    "design/High-level wireframe plan.md",
+    "rfc/Tech Goals and discussion.md",
+    "tech/Untitled.md",
     "tech/README.md",
-    "tech/Analytics.md",
-    "Untitled",
-    "README.md",
-    "marketing/README.md",
+    "tech/Nihum/An entry to Forium tech (EkScript version).md",
+    "tech/Forium I/Forium.md",
+    "tech/Nihum/Architechture.excalidraw.md",
+    "tech/Nihum/Analytics.md",
+    "Random writings - organize later.md",
+    "design/README.md",
+    "design",
+    "plan/README.md",
+    "plan/RFC Plan & Docs.md",
+    "research/competition/MyBB.md",
+    "research/competition/README.md",
+    "research/competition/Discord.md",
+    "research/competition/Discourse.md",
+    "research/README.md",
+    "research/Competitors.md",
+    "research/competition",
+    "research",
+    "tech/Nihum.md",
+    "tech/Nihum",
+    "tech/Forium I",
+    "misc/Why?.md",
+    "tech/Nihum/Front-end.md",
+    "misc/README.md",
+    "tech/Nihum/zagql.md",
+    "rfc/README.md",
     "tech/Untitled.canvas",
     "Excalidraw",
     "misc",
     "marketing",
     "rfc",
-    "plan",
-    "architechture",
-    "tech",
-    "Welcome.md"
+    "plan"
   ]
 }
