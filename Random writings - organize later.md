@@ -23,3 +23,10 @@ To make the most out of Forium, you need to provide features as well:
 - Tauri App (Desktop & Mobile) for engagement (Easier to maintain too as the whole thing will run off the web anyways)
 - Translate for feature
 - Announcements
+- Native SDK for apps and websites
+	- Use the same login to make sure that the whole app can be easily embedded with the current login.
+	- React Native, [Integration with Existing Apps · React Native](https://reactnative.dev/docs/integration-with-existing-apps?language=kotlin)
+	- Auth hooks to let the users login with the same account.
+		- Cookies
+		- JWT based
+	- Should look like its a part of the project
