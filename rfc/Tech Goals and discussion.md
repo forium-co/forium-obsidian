@@ -45,4 +45,4 @@ Therefore we keep the following technologies in mind:
 - Speed of development
 - Speed of page loads
 - Large traffic handling
-- Zero to self-host in 2 minutes (in a $5 VM)
+- Zero to self-host in 2 minutes (in a $5 VM) or use Fly.io

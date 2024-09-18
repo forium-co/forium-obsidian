@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "525819a7287323c4",
+        "id": "9be64ba2f78f0206",
         "type": "tabs",
         "children": [
           {
-            "id": "11a50be0020d5f55",
+            "id": "0bbfea4b55c22108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random writings - organize later.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random writings - organize later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random writings - organize later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Random writings - organize later.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11a50be0020d5f55",
+  "active": "0bbfea4b55c22108",
   "lastOpenFiles": [
+    "rfc/Tech Goals and discussion.md",
+    "Random writings - organize later.md",
     "Philosophy.md",
     "plan/RFC Plan & Docs.md",
     "design/High-level wireframe plan.md",
@@ -156,14 +150,12 @@
     "Excalidraw",
     "design/Philosophy.md",
     "design/wireframe.excalidraw.md",
-    "rfc/Tech Goals and discussion.md",
     "tech/Untitled.md",
     "tech/README.md",
     "tech/Nihum/An entry to Forium tech (EkScript version).md",
     "tech/Forium I/Forium.md",
     "tech/Nihum/Architechture.excalidraw.md",
     "tech/Nihum/Analytics.md",
-    "Random writings - organize later.md",
     "design/README.md",
     "design",
     "plan/README.md",
