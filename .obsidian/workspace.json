@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9be64ba2f78f0206",
+        "id": "af16c713284a9a31",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbfea4b55c22108",
+            "id": "e5b19847004773fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/30 Sep 2024, Mo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/30 Sep 2024, Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/30 Sep 2024, Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/30 Sep 2024, Mo.md"
+              }
             }
           }
         ]
@@ -131,52 +139,52 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bbfea4b55c22108",
+  "active": "e5b19847004773fa",
   "lastOpenFiles": [
-    "rfc/Tech Goals and discussion.md",
-    "Random writings - organize later.md",
-    "Philosophy.md",
-    "plan/RFC Plan & Docs.md",
-    "design/High-level wireframe plan.md",
-    "Excalidraw/Drawing 2024-09-17 10.44.45.excalidraw.md",
-    "Excalidraw",
-    "design/Philosophy.md",
-    "design/wireframe.excalidraw.md",
+    "Daily Notes/30 Sep 2024, Su.md",
+    "Daily Notes/30 Sep 2024, Mo.md",
+    "rfc/Admin Dashboard.md",
+    "rfc/Dev Admin dashboard.md",
+    "Daily Notes/28 Sep 2024, Sa.md",
+    "dauk.md",
+    "Daily Notes/Writing a HTTP server from scratch - Let's recreate http.zig.md",
+    "tech/Notes/zig notes.md",
     "tech/Untitled.md",
-    "tech/README.md",
-    "tech/Nihum/An entry to Forium tech (EkScript version).md",
-    "tech/Forium I/Forium.md",
-    "tech/Nihum/Architechture.excalidraw.md",
-    "tech/Nihum/Analytics.md",
+    "tech/Notes",
+    "Untitled.md",
+    "Daily Notes/Daily Notes Template.md",
+    "Daily Notes/27 Sep 2024, Fr.md",
+    "Excalidraw/Drawing 2024-09-17 10.44.45.excalidraw.md",
     "design/README.md",
-    "design",
-    "plan/README.md",
-    "research/competition/MyBB.md",
-    "research/competition/README.md",
+    "design/Philosophy.md",
+    "design/High-level wireframe plan.md",
+    "Daily Notes/OSS Startup from scratch - 0 - Zig and Forium.md",
+    "Daily Notes/OSS Startup from scratch - 1 - http.zig.md",
+    "Untitled",
     "research/competition/Discord.md",
     "research/competition/Discourse.md",
+    "research/competition/MyBB.md",
+    "research/competition/README.md",
     "research/README.md",
-    "research/Competitors.md",
+    "tech/Nihum/Object storage.md",
+    "tech/Nihum/Architechture.excalidraw.md",
+    "tech/Nihum/Analytics.md",
+    "Daily Notes",
+    "Excalidraw",
+    "design",
     "research/competition",
     "research",
-    "tech/Nihum.md",
     "tech/Nihum",
     "tech/Forium I",
-    "misc/Why?.md",
-    "tech/Nihum/Front-end.md",
-    "misc/README.md",
     "tech/Untitled.canvas",
-    "misc",
-    "marketing",
-    "rfc",
-    "plan"
+    "misc"
   ]
 }
