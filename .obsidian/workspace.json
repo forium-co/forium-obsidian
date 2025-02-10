@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af16c713284a9a31",
+        "id": "58ffaedad1a6abcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b19847004773fa",
+            "id": "c23d9166d2a67b45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/30 Sep 2024, Mo.md",
+                "file": "My daily note - 10th Feb.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "My daily note - 10th Feb"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/30 Sep 2024, Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/30 Sep 2024, Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/30 Sep 2024, Mo.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -143,48 +156,50 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e5b19847004773fa",
+  "active": "c23d9166d2a67b45",
   "lastOpenFiles": [
-    "Daily Notes/30 Sep 2024, Su.md",
-    "Daily Notes/30 Sep 2024, Mo.md",
-    "rfc/Admin Dashboard.md",
-    "rfc/Dev Admin dashboard.md",
-    "Daily Notes/28 Sep 2024, Sa.md",
+    "My daily note - 10th Feb.md",
+    "investors and fundings/Pitch-pdf.pdf",
+    "Philosophy.md",
+    "README.md",
+    "Random writings - organize later.md",
+    "investors and fundings/Pitch.md",
+    "Pasted image 20250209171123.png",
+    "investors and fundings/README.pdf",
+    "investors and fundings",
+    "Investor related stuffs",
+    "marketing/Pricing.md",
+    "Pasted image 20250209171115.png",
+    "tech/README.md",
+    "Pasted image 20250209165139.png",
+    "rfc-ideas/offline-first/Offline-first RFC.md",
+    "rfc-ideas/authentication/README-Auth.md",
+    "tech/Nihum - deprecated/zagql.md",
+    "tech/Nihum - deprecated/Search.md",
+    "tech/Nihum - deprecated/Object storage.md",
+    "tech/Nihum - deprecated/Log.md",
+    "tech/Nihum - deprecated/Landing Page.md",
+    "tech/Nihum - deprecated/Front-end.md",
+    "tech/Nihum - deprecated/Architechture.excalidraw.md",
+    "tech/Nihum - deprecated/Analytics.md",
+    "tech/Nihum - deprecated/An entry to Forium tech (EkScript version).md",
     "dauk.md",
-    "Daily Notes/Writing a HTTP server from scratch - Let's recreate http.zig.md",
     "tech/Notes/zig notes.md",
-    "tech/Untitled.md",
+    "rfc-ideas/authentication/Untitled.md",
+    "2024-09-27.md",
+    "rfc-ideas/README.md",
+    "rfc-ideas/Untitled.md",
+    "rfc-ideas/Tech Goals and discussion.md",
+    "rfc-ideas/offline-first",
+    "rfc-ideas/settings-admin",
+    "rfc-ideas/home",
+    "rfc-ideas/authentication",
+    "Daily Notes/30 Sep 2024, Mo.md",
     "tech/Notes",
-    "Untitled.md",
-    "Daily Notes/Daily Notes Template.md",
-    "Daily Notes/27 Sep 2024, Fr.md",
-    "Excalidraw/Drawing 2024-09-17 10.44.45.excalidraw.md",
-    "design/README.md",
-    "design/Philosophy.md",
-    "design/High-level wireframe plan.md",
-    "Daily Notes/OSS Startup from scratch - 0 - Zig and Forium.md",
-    "Daily Notes/OSS Startup from scratch - 1 - http.zig.md",
-    "Untitled",
-    "research/competition/Discord.md",
-    "research/competition/Discourse.md",
-    "research/competition/MyBB.md",
-    "research/competition/README.md",
-    "research/README.md",
-    "tech/Nihum/Object storage.md",
-    "tech/Nihum/Architechture.excalidraw.md",
-    "tech/Nihum/Analytics.md",
     "Daily Notes",
-    "Excalidraw",
-    "design",
-    "research/competition",
-    "research",
-    "tech/Nihum",
-    "tech/Forium I",
-    "tech/Untitled.canvas",
-    "misc"
+    "tech/Untitled.canvas"
   ]
 }

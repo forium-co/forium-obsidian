@@ -16,10 +16,15 @@ The ability to be flexible on a range from full-hosting on a single device to re
 
 To make the most out of Forium, you need to provide features as well:
 - AI search
+	- This is the first and foremost thing that a forum app can offer.
+	- I want to crack this market based on information that we are provideded in the future.
+	- There are a lot of thinhs that we can do that we don't see now.
 - UI/UX should be awesome and not some 2000s bullshit
 - Fast load times using SSR, SW and SPA and lightweight pages. No bundling to save page size
 - Analytics should be fast
-- Discord/Discourse/Reddit integration
+- Discord/Discourse/Reddit & Github issues integration
+	- We start with the open source communities to make a good hold in our platform.
+	- Maybe we can uproot them out of Discord. But we have to be 10x better.
 - Tauri App (Desktop & Mobile) for engagement (Easier to maintain too as the whole thing will run off the web anyways)
 - Translate for feature
 - Announcements
