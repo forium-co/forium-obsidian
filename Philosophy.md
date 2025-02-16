@@ -1,4 +1,4 @@
-Forium at its later stage should be a place for everyone to experience a feeling of community.
+Forium should be a place for everyone to experience a feeling of community.
 
 But, Forium in itself doesn't exist. It exists to let people design their life and ideas. Think of it being like Wordpress but for communities & forums.
 

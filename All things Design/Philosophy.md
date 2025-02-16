@@ -4,9 +4,11 @@ tags:
   - philosophy
   - idea
 ---
+- Forium is fast. But more than that, Forium's design should be simple and very intuitive.
+- Users should be able to feel the easiness to comment and interact.
+- Forium should give the users to customize their website to their liking. Extreme customizability is one of the core features of Forium
 
-- Forium is fast. But more than that, Forium's design is flawless.
-- Forium should give the users to customize their website to their liking.
+## Easiness
 
 The following should be easily changeable:
 - Color of each heading

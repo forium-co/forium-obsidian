@@ -2,7 +2,10 @@
 tags:
   - design
   - idea
+  - todo
 ---
+TODO: Making this a thing
+
 Let's write down how our app looks like in the future. This clarity will give me more time to focus on design
 ## Unauth screens
 Screens without authentication access needed
