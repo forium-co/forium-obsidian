@@ -1,4 +1,3 @@
-
 For slides, please consult: [Claude Artifact](https://claude.site/artifacts/ac320042-3cc1-46da-89c5-d57c3da9d4c8)
 ## Opening Slide
 

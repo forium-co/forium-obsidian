@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "347c183e88e2e281",
+        "id": "9fbe108a496149f7",
         "type": "tabs",
         "children": [
           {
-            "id": "7457c242c7ef1c66",
+            "id": "d7fa69df3a560245",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7457c242c7ef1c66",
+  "active": "d7fa69df3a560245",
   "lastOpenFiles": [
+    "Vision & Goals/Pitch.md",
+    "README.md",
+    "Weekly Notes & Releases/02-February/9 Feb - 15 Feb.md",
+    "Weekly Notes & Releases/Weekly Notes Template.md",
+    "Weekly Notes & Releases/README.md",
+    "Weekly Notes & Releases/06-June",
+    "Weekly Notes & Releases/05-May",
+    "Weekly Notes & Releases/04-April",
+    "Weekly Notes & Releases/03-March",
+    "Weekly Notes & Releases/02-February",
+    "Weekly Notes & Releases/Untitled.md",
+    "Weekly Notes & Releases/OSS Startup from scratch - 0 - Zig and Forium.md",
     "tech/README.md",
     "tech/How the tech stack is in Forium?.md",
     "Vision & Goals/README - vision.md",
@@ -178,23 +190,11 @@
     "rfc-ideas/Tech Goals and discussion.md",
     "blog/README-blog.md",
     "blog/🧑‍🤝‍🧑The need for a new community platform.md",
-    "blog",
     "rfc-ideas/Admin Dashboard.md",
     "attachments/README.md",
-    "attachments",
     "attachments/Pasted image 20250209171123.png",
     "My daily note - 10th Feb.md",
     "marketing/💹 GTM.md",
-    "marketing/README - marketing.md",
-    "marketing/💰 Pricing.md",
-    "Excalidraw/Drawing 2024-09-17 10.44.45.excalidraw.md",
-    "All things Design/README-design.md",
-    "All things Design/Philosophy.md",
-    "All things Design/wireframes/👩‍🎤 Profile screen wireframes.md",
-    "All things Design/wireframes/High-level wireframe plan.md",
-    "All things Design/Untitled",
-    "All things Design/Layout & Responsiveness",
-    "All things Design/wireframes",
     "Pasted image 20250209171115.png",
     "Pasted image 20250209165139.png",
     "tech/Untitled.canvas"
