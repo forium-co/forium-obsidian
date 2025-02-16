@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6874d363090561a4",
+        "id": "47373eb339874524",
         "type": "tabs",
         "children": [
           {
-            "id": "7c91f8826ea727ee",
+            "id": "565a6fe25b5eece5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tech/How the tech stack is in Forium?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "How the tech stack is in Forium?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tech/How the tech stack is in Forium?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for How the tech stack is in Forium?"
             }
           },
           {
@@ -161,10 +161,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c91f8826ea727ee",
+  "active": "565a6fe25b5eece5",
   "lastOpenFiles": [
-    "Misc/README-misc.md",
+    "Meetings & Interviews/README-meetings.md",
+    "Meetings & Interviews",
     "README.md",
+    "Misc/README-misc.md",
     "Weekly Notes & Releases/README - weekly notes.md",
     "Official Docs & Guides/README-docs.md",
     "attachments/f.png",
@@ -190,7 +192,6 @@
     "plan/24th Sept, 2024 - Goal for the next 1-2 years.md",
     "Misc",
     "Philosophy.md",
-    "tech/Replicache and Offline support",
     "rfc-ideas/README-rfc.md",
     "research/README-research.md",
     "research/competition/Flarum.md",
@@ -200,7 +201,6 @@
     "rfc-ideas/Admin Dashboard.md",
     "attachments/README.md",
     "attachments/Pasted image 20250209171123.png",
-    "My daily note - 10th Feb.md",
     "Pasted image 20250209171115.png",
     "Pasted image 20250209165139.png",
     "tech/Untitled.canvas"
